@@ -48,10 +48,10 @@ Here are some of the key technologies I work with:
 
 </a>
 <a href="#">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Azure-0078D4%3Fstyle%3Dfor-the-badge%26logo%3Dmicrosoftazure%26logoColor%3Dwhite" alt="Azure" />
+<img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
 </a>
 <a href="#">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Docker-2496ED%3Fstyle%3Dfor-the-badge%26logo%3Ddocker%26logoColor%3Dwhite" alt="Docker" />
+<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </a>
 <a href="#">
 <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" alt="Apache Airflow" />
