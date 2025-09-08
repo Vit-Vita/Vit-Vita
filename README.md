@@ -6,11 +6,11 @@ I am a Data Scientist and Engineer with a unique background blending five years 
 
 Currently, I'm working as a Backend Systems Engineer, where I'm diving deep into:
 
-    🏗️ Building and maintaining data infrastructure with PostgreSQL, SQL, and Python.
+* 🏗️ Building and maintaining data infrastructure with PostgreSQL, SQL, and Python.
 
-    🤖 Implementing Retrieval-Augmented Generation (RAG) systems for intelligent chatbots.
+* 🤖 Implementing Retrieval-Augmented Generation (RAG) systems for intelligent chatbots.
 
-    💡 Exploring the application of digital twins and other advanced AI features.
+* 💡 Exploring the application of digital twins and other advanced AI features.
 
 
 🚀 My Featured Projects
