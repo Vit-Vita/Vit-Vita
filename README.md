@@ -2,9 +2,9 @@
 <h3 align="center">Data Scientist & Backend Engineer | Bridging the gap between Finance and Technology</h3>
 
 ## About Me: 
-I am a Data Scientist and Engineer with a unique background blending five years of experience in the Swiss financial sector with an MSc in Applied Information and Data Science. My passion lies in building robust, end-to-end solutions that leverage data to drive business value. I specialize in developing automated data pipelines, deploying machine learning models, and building the backend infrastructure that brings data-driven applications to life. My journey from finance to tech has given me a strong business acumen and a deep appreciation for creating scalable and impactful solutions.
+I am a Data Scientist and Engineer with a unique background blending **five years of experience in the Swiss financial sector** with an **MSc in Applied Information and Data Science**. My passion lies in building robust, end-to-end solutions that leverage data to drive business value. I specialize in developing automated data pipelines, deploying machine learning models, and building the backend infrastructure that brings data-driven applications to life. My journey from finance to tech has given me a strong business acumen and a deep appreciation for creating scalable and impactful solutions.
 
-Currently, I'm working as a Backend Systems Engineer, where I'm diving deep into:
+Currently, I am working as a **Backend Systems Engineer**, where I am diving deep into:
 
 * 🏗️ Building and maintaining data infrastructure with PostgreSQL, SQL, and Python.
 
@@ -26,11 +26,11 @@ Here are a few highlights of my work. You can find more in my repositories!
 
 Other Noteworthy Projects
 
-* ETL with Apache Hop: Built a multi-stage ETL pipeline to transform job vacancy data from XML into a structured Azure SQL database for reporting in Tableau.
+* **ETL with Apache Hop**: Built a multi-stage ETL pipeline to transform job vacancy data from XML into a structured Azure SQL database for reporting in Tableau.
 
-* Book Recommender System: Designed and implemented a book recommendation engine using an ELT methodology with MySQL Workbench and Metabase.
+* **Book Recommender System**: Designed and implemented a book recommendation engine using an ELT methodology with MySQL Workbench and Metabase.
 
-* Statistical Analysis with NoSQL: Utilized MongoDB to analyze a 10-year dataset on obesity and nutrition, identifying correlations between risk factors and health outcomes.
+* **Statistical Analysis with NoSQL**: Utilized MongoDB to analyze a 10-year dataset on obesity and nutrition, identifying correlations between risk factors and health outcomes.
 
 💻 My Tech Stack
 
