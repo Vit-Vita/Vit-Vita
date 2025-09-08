@@ -73,16 +73,6 @@ Here are some of the key technologies I work with:
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTOrch" />
 </a>
 </div>
-
-
-
-
-📫 How to Reach Me
-
-I'm always open to connecting with fellow tech enthusiasts and discussing new opportunities. Feel free to reach out!
-
-<p align="left">
-<a href="https://www.google.com/search?q=https://www.linkedin.com/in/your-linkedin-profile/" target="_blank">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"/>
 </a>
 <a href="mailto:your.email@example.com">
