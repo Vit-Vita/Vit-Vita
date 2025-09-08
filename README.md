@@ -37,10 +37,10 @@ Other Noteworthy Projects
 Here are some of the key technologies I work with:
 <div align="center">
 <a href="#">
-<img src="https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </a>
 <a href="#">
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="SQL" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
 </a>
 <a href="#">
 <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" alt="R" />
@@ -59,8 +59,6 @@ Here are some of the key technologies I work with:
 <a href="#">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Power_BI-F2C811%3Fstyle%3Dfor-the-badge%26logo%3Dpowerbi%26logoColor%3Dblack" alt="Power BI" />
 </a>
-
-
 <a href="#">
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 </a>
