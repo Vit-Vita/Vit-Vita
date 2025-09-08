@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I am Vitalia 👋</h1>
+<h1 align="center">Hello, I am Vitalia 👋</h1>
 <h3 align="center">Data Scientist & Backend Engineer | Bridging the gap between Finance and Technology</h3>
 
 ## About Me: 
@@ -35,7 +35,6 @@ Other Noteworthy Projects
 💻 My Tech Stack
 
 Here are some of the key technologies I work with:
-
 <div align="center">
 <a href="#">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" alt="Python" />
@@ -59,6 +58,8 @@ Here are some of the key technologies I work with:
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
 </a>
 </div>
+
+
 📫 How to Reach Me
 
 I'm always open to connecting with fellow tech enthusiasts and discussing new opportunities. Feel free to reach out!
