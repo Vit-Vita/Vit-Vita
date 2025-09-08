@@ -57,6 +57,14 @@ Built a big data system to ingest, process, and analyze energy consumption data,
 
 Azure Data Factory, Azure Databricks, Power BI
 
+Other Noteworthy Projects
+
+* ETL with Apache Hop: Built a multi-stage ETL pipeline to transform job vacancy data from XML into a structured Azure SQL database for reporting in Tableau.
+
+* Book Recommender System: Designed and implemented a book recommendation engine using an ELT methodology with MySQL Workbench and Metabase.
+
+* Statistical Analysis with NoSQL: Utilized MongoDB to analyze a 10-year dataset on obesity and nutrition, identifying correlations between risk factors and health outcomes.
+
 💻 My Tech Stack
 
 Here are some of the key technologies I work with:
