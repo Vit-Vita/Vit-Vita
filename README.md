@@ -40,8 +40,12 @@ Here are some of the key technologies I work with:
 <img src="https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white" alt="Python" />
 </a>
 <a href="#">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/SQL-025E8C%3Fstyle%3Dfor-the-badge%26logo%3Dpostgresql%26logoColor%3Dwhite" alt="SQL" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="SQL" />
 </a>
+<a href="#">
+<img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" alt="R" />
+</a>
+
 <a href="#">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Azure-0078D4%3Fstyle%3Dfor-the-badge%26logo%3Dmicrosoftazure%26logoColor%3Dwhite" alt="Azure" />
 </a>
@@ -53,6 +57,9 @@ Here are some of the key technologies I work with:
 </a>
 <a href="#">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Power_BI-F2C811%3Fstyle%3Dfor-the-badge%26logo%3Dpowerbi%26logoColor%3Dblack" alt="Power BI" />
+</a>
+<a href="#">
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
 </a>
 <a href="#">
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
