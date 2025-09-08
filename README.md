@@ -37,7 +37,7 @@ Other Noteworthy Projects
 Here are some of the key technologies I work with:
 <div align="center">
 <a href="#">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" alt="Python" />
+<img src="https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white" alt="Python" />
 </a>
 <a href="#">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/SQL-025E8C%3Fstyle%3Dfor-the-badge%26logo%3Dpostgresql%26logoColor%3Dwhite" alt="SQL" />
