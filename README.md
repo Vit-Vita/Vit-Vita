@@ -54,7 +54,7 @@ Here are some of the key technologies I work with:
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Docker-2496ED%3Fstyle%3Dfor-the-badge%26logo%3Ddocker%26logoColor%3Dwhite" alt="Docker" />
 </a>
 <a href="#">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Apache_Airflow-017CEE%3Fstyle%3Dfor-the-badge%26logo%3Dapacheairflow%26logoColor%3Dwhite" alt="Apache Airflow" />
+<img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" alt="Apache Airflow" />
 </a>
 <a href="#">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Power_BI-F2C811%3Fstyle%3Dfor-the-badge%26logo%3Dpowerbi%26logoColor%3Dblack" alt="Power BI" />
