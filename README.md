@@ -20,7 +20,7 @@ Here are a few highlights of my work. You can find more in my repositories!
 | Project | Description | Technologies Used |
 |---|---|---|
 | ⚕️ **Automated Medical Report Generation** | **(My Master's Thesis)** Designed and built an end-to-end data pipeline to automate the creation of structured osteoporosis reports, reducing administrative workload for clinicians. | `Python`, `Docker`, `Apache Airflow`, `CNN`, `OCR` |
-| 🤖 **AI-Powered Customs Classification** | **(Internship at On AG)** Developed an AI/ML tool that automated 95% of customs classifications, achieving 94% accuracy with a gradient boosting model and using LLMs for interpretability. | `Python`, `Scikit-learn`, `GPT-3.5 API` |
+| 🤖 **AI-Powered Customs Classification** | Developed an AI/ML tool that automated 95% of customs classifications, achieving 94% accuracy with a gradient boosting model and using LLMs for interpretability. | `Python`, `Scikit-learn`, `GPT-3.5 API` |
 | 🔬 **Cleantech Innovations with RAG** | Developed an NLP pipeline using a Retrieval-Augmented Generation (RAG) system to analyze Cleantech media and patent data, enabling contextual question-answering on innovation trends. | `Python`, `LLMs`, `Sentence-BERT`, `NLP` |
 | ⚡ **Energy Consumption Prediction System** | Built a big data system to ingest, process, and analyze energy consumption data, culminating in a Power BI dashboard for visualizing trends and predictions. | `Azure Data Factory`, `Azure Databricks`, `Power BI` |
 
